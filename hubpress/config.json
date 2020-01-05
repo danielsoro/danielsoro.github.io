@@ -2,7 +2,8 @@
   "meta": {
     "username": "danielsoro",
     "repositoryName": "danielsoro.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "Daniel \"soro\" Cunha's Blog",
+    "description": "Sharing my experiences and knowledges.",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "5",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": "danielcunha"
+  },
+  "socialnetwork": {
+    "email": "danielsoro@gmail.com",
+    "github": "danielsoro",
+    "twitter": "dvlc_",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "danielvlcunha",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
