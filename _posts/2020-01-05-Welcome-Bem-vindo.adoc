@@ -1,11 +1,7 @@
-= Welcome / Bem-vindo 
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
+= Welcome / Bem-vindo
 :published_at: 2020-01-05
 :hp-tags: welcome, bem-vindo
-// :hp-alt-title: My English Title
 
 Welcome to my blog, hope to see you a lot of times here. :)
 
-
-Bem vindo ao meu blog, espero ver você por aqui muitas vezes. :)
+Bem-vindo ao meu blog, espero ver você por aqui muitas vezes. :)
