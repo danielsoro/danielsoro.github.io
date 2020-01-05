@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "casper"
   },
   "urls": {
     "site": "https://danielsoro.github.io",
     "hubpress": "https://danielsoro.github.io",
-    "theme": "//danielsoro.github.io/themes/the-shell",
+    "theme": "//danielsoro.github.io/themes/saga",
     "images": "https://danielsoro.github.io/images"
   },
   "initialisationConfigComponent": {
