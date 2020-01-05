@@ -4,3 +4,6 @@
 :published_at: 2020-01-05
 :hp-tags: welcome, bem-vindo
 // :hp-alt-title: My English Title
+
+Welcome to my blog, hope to see you a lot of times here. :)
+Bem vindo ao meu blog, espero ver você por aqui muitas vezes. :)
